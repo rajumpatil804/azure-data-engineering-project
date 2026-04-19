@@ -7,3 +7,12 @@ Phase 1: Dynamic Pipeline Implementation
 - Automated ingestion of multiple CSV files from GitHub using parameters
 - Used ForEach activity to iterate over multiple datasets dynamically
 - Eliminated hardcoding by using parameterized datasets and linked services
+
+Phase 2: Data Transformation and Cleaning using Databricks
+
+- Performed data transformation using Azure Databricks with PySpark.
+- Cleaned and processed raw data by handling null values, duplicates, and inconsistent formats.
+- Applied necessary data transformations such as filtering, column selection, and data type conversions.
+- Implemented structured data processing for better analytics and reporting.
+- Stored the transformed data into Azure Data Lake in a refined format.
+- Improved data quality and consistency for downstream analysis.
